@@ -15,9 +15,7 @@ I love turning ideas into working models — blending **Python, Java**, and **Ge
 
 ## 🔧 Skills & Tools  
 
-- **Languages:** Python, Java  
-- **AI/ML:** scikit-learn, TensorFlow, PyTorch, Hugging Face  
-- **Data Handling:** pandas, NumPy  
+- **Languages:** Python, Java   
 - **Dev Tools:** Git, GitHub  
 
 ---
@@ -45,9 +43,9 @@ I love turning ideas into working models — blending **Python, Java**, and **Ge
 
 ## 📫 Connect With Me  
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](#)  
-- **GitHub:** [github.com/YOUR_USERNAME](#)  
+- **Email:** SyedMusidsm@gmail.com  
+- **LinkedIn:** [(https://www.linkedin.com/in/syed-musid-587975282/)](#)  
+  
 
 ---
 
