@@ -2,7 +2,7 @@
 <!-- Simple, clean, and focused on AI/ML projects -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Hi+I'm+Syed+👋" alt="Syed's Banner" />
+  <img src="./banner.jpeg" />
 </p>
 
 # Hi, I'm Syed 👋  
