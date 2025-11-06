@@ -5,7 +5,7 @@
   <img src="./banner.jpeg" />
 </p>
 
-# Hi, I'm Syed 👋  
+# Hi, I'm Syed Musid 👋  
 ### CSE Student & Aspiring AI/ML Engineer  
 
 I’m a Computer Science & Engineering student passionate about **Artificial Intelligence** and **Machine Learning**.  
